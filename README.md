@@ -32,7 +32,7 @@ sudo python network_scanner.py -r YOUR_IP_RANGE
 ```
 
 ## Example Usage && Example Output
-**`Screenshot .png`**
+![zzzzz](screenshots/Screenshot .png)
 
 
 ## How It Works
