@@ -35,9 +35,6 @@ sudo python network_scanner.py -r YOUR_IP_RANGE
 ![Options Menu](screenshots/Screenshot%20.png)
 
 ### Help Menu Options
-
-If you run the tool without specifying a network range, or if you request the help menu using the `-h` flag, the tool will display the guide options below:
-
 ![Help Menu Guide](screenshots/Screenshot%20_2.png)
 
 ## How It Works
