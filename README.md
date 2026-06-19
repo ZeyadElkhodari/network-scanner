@@ -26,6 +26,9 @@ A Python-based network scanner built with Scapy to discover active devices on a 
 pip install -r requirements.txt
 ```
 
+## Help Menu Options
+![Help Menu Guide](screenshots/Screenshot%20_2.png)
+
 ## Usage
 ```
 sudo python network_scanner.py -r YOUR_IP_RANGE
@@ -33,9 +36,6 @@ sudo python network_scanner.py -r YOUR_IP_RANGE
 
 ## Example Run
 ![Options Menu](screenshots/Screenshot%20.png)
-
-### Help Menu Options
-![Help Menu Guide](screenshots/Screenshot%20_2.png)
 
 ## How It Works
 The tool sends ARP requests to detect active devices on the network.
