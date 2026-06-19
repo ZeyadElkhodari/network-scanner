@@ -28,22 +28,11 @@ pip install -r requirements.txt
 
 ## Usage
 ```
-python network_scanner.py -r YOUR_IP_RANGE
+sudo python network_scanner.py -r YOUR_IP_RANGE
 ```
 
-## Example
-```
-python network_scanner.py -r 192.168.1.0/24
-```
-
-## Example Output
-```text
-IP Address          MAC Address
------------------------------------------
-192.168.1.1         AA:BB:CC:DD:EE:FF
-192.168.1.10        11:22:33:44:55:66
-```
-
+## Example Usage && Example Output
+**`Screenshot .png`**
 
 
 ## How It Works
