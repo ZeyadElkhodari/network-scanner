@@ -25,7 +25,6 @@ A Python-based network scanner built with Scapy to discover active devices on a 
 ```bash
 pip install -r requirements.txt
 ```
----
 
 ## Usage
 
