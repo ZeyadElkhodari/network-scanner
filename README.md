@@ -37,9 +37,13 @@ python network_scanner.py -r 192.168.1.0/24
 ```
 
 ## Example Output
+```text
+IP Address          MAC Address
+-----------------------------------------
+192.168.1.1         AA:BB:CC:DD:EE:FF
+192.168.1.10        11:22:33:44:55:66
+```
 
-* **IP:** 192.168.1.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **MAC:** AA:BB:CC:DD:EE:FF
-* **IP:** 192.168.1.10 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **MAC:** 11:22:33:44:55:66
 
 
 ## How It Works
