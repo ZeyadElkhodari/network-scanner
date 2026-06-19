@@ -32,8 +32,7 @@ sudo python network_scanner.py -r YOUR_IP_RANGE
 ```
 
 ## Example Usage && Example Output
-![zzzzz](screenshots/Screenshot .png)
-
+![Options Menu](screenshots/Screenshot%20.png)
 
 ## How It Works
 The tool sends ARP requests to detect active devices on the network.
