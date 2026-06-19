@@ -31,3 +31,17 @@ pip install -r requirements.txt
 
 ```bash
 python network_scanner.py -r YOUR_IP_RANGE
+```
+## Example Output
+Example Output
+
+## Example
+```bash
+python network_scanner.py -r 192.168.1.0/24
+```
+
+## How It Works
+The tool sends ARP requests to detect active devices on the network.
+
+## Disclaimer
+This tool is for educational purposes only and authorized use only.
