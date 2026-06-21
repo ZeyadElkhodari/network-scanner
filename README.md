@@ -2,8 +2,6 @@
 
 A Python-based network scanner built with Scapy to discover active devices on a local network using ARP requests.
 
----
-
 ## Features
 
 - ARP-based network scanning  
@@ -11,14 +9,12 @@ A Python-based network scanner built with Scapy to discover active devices on a 
 - Displays IP and MAC addresses  
 - Fast and lightweight  
 
----
 
 ## Requirements
 
 - Python 3.x  
-- Scapy  
-
----
+- Scapy
+   
 
 ## Installation
 
